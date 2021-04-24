@@ -1,0 +1,27 @@
+{
+  "name": "heartbeats",
+  "version": "0.0.2",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleOsborne/Heartbeats.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "SQLite",
+    "Angular.js"
+  ],
+  "author": "Michelle",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MichelleOsborne/Heartbeats/issues"
+  },
+  "homepage": "https://github.com/MichelleOsborne/Heartbeats#readme"
+}
